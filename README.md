@@ -12,7 +12,7 @@ Carefully matched the provided UI design, including colors, rounded corners, spa
 Focused on maintaining visual consistency across all screens
 
 🎬 Smooth Animations
-
+hello 
 Screen content fades in and slides upward for a polished entrance effect
 
 Pet cards and buttons slightly scale down on press to provide visual feedback
