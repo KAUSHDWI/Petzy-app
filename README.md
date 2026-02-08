@@ -32,6 +32,7 @@ Cart: The total price updates automatically when item quantities change
 Favorites: Pets can be saved by tapping the heart icon
 
 🛠 Tech Stack
+now
 
 Framework: React Native (Expo)
 
