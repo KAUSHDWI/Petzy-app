@@ -9,7 +9,7 @@ Petzy is a mobile application focused on pet adoption and pet supplies. I develo
 
 Carefully matched the provided UI design, including colors, rounded corners, spacing, and shadows
 
-Focused on maintaining visual consistency across all screens
+Focused on maintaining visual consistency across all screens ok
 
 🎬 Smooth Animations
 hello 
