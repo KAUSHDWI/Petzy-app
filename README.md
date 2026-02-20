@@ -17,7 +17,7 @@ Screen content fades in and slides upward for a polished entrance effect
 
 Pet cards and buttons slightly scale down on press to provide visual feedback
 
-🧭 Custom Navigation
+🧭 Custom Navigation.
 
 A fixed bottom navigation bar remains visible while switching between screens
 
